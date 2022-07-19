@@ -12,6 +12,8 @@ dependencies:
   - r-reshape2
   - r-plotly
   - r-stringr
+  - r-rlang
+  - r-lattice
   - r-caret
   - pip
   - pip:
