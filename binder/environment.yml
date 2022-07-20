@@ -15,6 +15,7 @@ dependencies:
   - r-rlang
   - r-lattice
   - r-caret
+  - r-ellipse
   - pip
   - pip:
      - numpy
